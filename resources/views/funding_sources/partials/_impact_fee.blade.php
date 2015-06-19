@@ -1,0 +1,1 @@
+<td>${{ number_format($funding_source->impact_fee,0) }}</td>

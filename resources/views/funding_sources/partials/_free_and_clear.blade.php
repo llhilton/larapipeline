@@ -1,0 +1,1 @@
+<td>${{ number_format($funding_source->free_and_clear ,0) }}</td>

@@ -1,0 +1,1 @@
+<td>${{ number_format($funding_source->available_funds ,0) }}</td>

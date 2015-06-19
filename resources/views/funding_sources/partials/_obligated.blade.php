@@ -1,0 +1,1 @@
+<td>${{ number_format($funding_source->obligated,0) }}</td>

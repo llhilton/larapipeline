@@ -1,0 +1,1 @@
+<td>${{ number_format($funding_source->pipeline ,0) }}</td>
